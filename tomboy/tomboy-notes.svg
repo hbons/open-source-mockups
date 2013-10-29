@@ -1201,9 +1201,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1447.5669"
-     inkscape:cy="1593.4748"
+     inkscape:zoom="1"
+     inkscape:cx="920.32427"
+     inkscape:cy="1445.3587"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1237,7 +1237,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -10369,5 +10369,25 @@
          y="1217.3136"
          x="-2965.1077"
          sodipodi:role="line">7</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       sodipodi:linespacing="125%"
+       id="text12128-3"
+       y="1604.0779"
+       x="-2096.0696"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;opacity:0.5;fill:#323232;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#323232;fill-opacity:1;font-family:Lato;-inkscape-font-specification:Lato"
+         y="1604.0779"
+         x="-2096.0696"
+         id="tspan12130-8"
+         sodipodi:role="line">last edited 2h ago</tspan><tspan
+         id="tspan12132-0"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#323232;fill-opacity:1;font-family:Lato;-inkscape-font-specification:Lato"
+         y="1619.0779"
+         x="-2096.0696"
+         sodipodi:role="line" /></text>
   </g>
 </svg>
