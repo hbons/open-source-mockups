@@ -1201,9 +1201,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="920.32427"
-     inkscape:cy="1445.3587"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1380.913"
+     inkscape:cy="1390.4554"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4716,7 +4716,7 @@
        id="rect4780"
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#969696;stroke-width:1.99999988;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.99984274;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <g
-       transform="translate(-1814.5154,575.63757)"
+       transform="translate(-1814.5154,574.63757)"
        id="g4681"
        style="fill:#323232;fill-opacity:1">
       <text
@@ -7423,22 +7423,22 @@
          inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#323232;fill-opacity:1;font-family:Lato;-inkscape-font-specification:Lato Bold"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#323232;fill-opacity:1;font-family:Lato;-inkscape-font-specification:Lato"
            sodipodi:role="line"
            x="115.98984"
            y="789.12244"
            id="tspan9665"><tspan
-             style="fill:#00aaf5;fill-opacity:1"
-             id="tspan9703">Tomboy Notes</tspan><tspan
-             style="fill:#ffffff;fill-opacity:1"
-             id="tspan9669">  Wireframes</tspan></tspan></text>
+             style="font-weight:bold;fill:#00aaf5;fill-opacity:1;-inkscape-font-specification:Lato Bold"
+             id="tspan9703">Tomboy Notes  </tspan><tspan
+             style="font-weight:normal;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Lato"
+             id="tspan9669">Wireframes  </tspan></tspan></text>
       <g
          id="g9663"
          transform="translate(610.3125,152.125)"
          style="fill:#323232;fill-opacity:1" />
     </g>
     <g
-       style="opacity:0.61000001;fill:#ffffff;fill-opacity:1"
+       style="opacity:0.8271028;fill:#ffffff;fill-opacity:1"
        id="g9693"
        transform="matrix(0.72684087,0,0,0.72684087,-2678.7715,242.91545)">
       <text
@@ -7449,7 +7449,7 @@
          id="text9695"
          y="815.6886"
          x="47.500248"
-         style="font-size:24.89069557px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Lato"
+         style="font-size:24.89069556999999833px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.50000000000000000;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Lato"
          xml:space="preserve"><tspan
            id="tspan9697"
            y="815.6886"
@@ -10389,5 +10389,25 @@
          y="1619.0779"
          x="-2096.0696"
          sodipodi:role="line" /></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       sodipodi:linespacing="125%"
+       id="text4941"
+       y="1858.1042"
+       x="-2057.2747"
+       style="font-size:16.15141296px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f58700;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Lato"
+       xml:space="preserve"><tspan
+         id="tspan4945"
+         y="1858.1042"
+         x="-2057.2747"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#f58700;fill-opacity:1;font-family:Lato;-inkscape-font-specification:Lato">Context menu reveals all</tspan><tspan
+         y="1878.2936"
+         x="-2057.2747"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#f58700;fill-opacity:1;font-family:Lato;-inkscape-font-specification:Lato"
+         id="tspan4949">(other) formatting options.</tspan></text>
   </g>
 </svg>
